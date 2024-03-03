@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eb43d334f6ffe14485a59c1d3af65ee, type: 3}
+  m_Name: New Game Scene Database
+  m_EditorClassIdentifier: 
+  _gameScenes:
+  - _sceneName: Title Screen
+    _sceneDescription: This is the Title Screen
+    _sceneIcon: {fileID: 0}
+    _unitySceneID: 0
+  - _sceneName: Game
+    _sceneDescription: Kemia Simulator
+    _sceneIcon: {fileID: 0}
+    _unitySceneID: 1
